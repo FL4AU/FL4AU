@@ -38,7 +38,7 @@ We intend to create a forum to communicate challenging problems and address open
 [Submission link](https://cmt3.research.microsoft.com/FL4AU2022/){:target="_blank"}
 
 
-#### Important Dates
+#### Important dates
 
 - Submission: 20 Nov 2022 
 
@@ -51,7 +51,5 @@ We intend to create a forum to communicate challenging problems and address open
 The program is composed of invited talks, panel discussion and selected presentations. The final program will be decided soon.
 
 <!--{% include toc.html %}
-
 ------
-
 {% include template/credits.html %}-->
