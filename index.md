@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# Federated Learning for Australasia: Towards large-scale AI system with privacy-preserving
+## Federated Learning for Australasia: Towards large-scale AI system with privacy-preserving
 
 {% include figure.html img="About-WA-resized.jpg" alt="intro image here" caption="FL4AU workshop" width="75%" %}
 
