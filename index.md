@@ -21,7 +21,7 @@ In contrast to traditional centralized machine learning techniques, federated le
 
 - [Dr Tao Shen](https://www.microsoft.com/en-us/research/people/shentao/), Microsoft.
 
-## Other co-organisers:
+##### Other co-organisers:
 
 Webchair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng), University of Technology Sydney (UTS), Australia.
 
