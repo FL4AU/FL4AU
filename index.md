@@ -15,9 +15,9 @@ In contrast to traditional centralized machine learning techniques, federated le
 
 #### Organisers 
 
-[A/Prof Guodong Long](https://profiles.uts.edu.au/Guodong.Long/), Australian AI Institute, University of Technology Sydney (UTS), Australia.
+- [A/Prof Guodong Long](https://profiles.uts.edu.au/Guodong.Long/), Australian AI Institute, University of Technology Sydney (UTS), Australia.
 
-[Dr Yanjun Zhang](https://www.deakin.edu.au/about-deakin/people/yanjun-zhang/), Deakin University, Australia.
+- [Dr Yanjun Zhang](https://www.deakin.edu.au/about-deakin/people/yanjun-zhang/), Deakin University, Australia.
 
 
 
@@ -30,11 +30,11 @@ Submission link: (To be published)
 
 #### Important Dates
 
-Submission: 20 Nov 2022 
+- Submission: 20 Nov 2022 
 
-Notification: 30 Nov 2022 
+- Notification: 30 Nov 2022 
 
-Workshop date: 5 Dec 2022 
+- Workshop date: 5 Dec 2022 
 
 <!--{% include toc.html %}
 
