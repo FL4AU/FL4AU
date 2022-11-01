@@ -9,11 +9,11 @@ layout: default
 
 The first workshop FL4AU on [The 35th Australasian Joint Conference on Aritificial Intelligence](https://ajcai2022.org/), Perth, Dec 2022.
 
-*Introduction*
+#### Introduction
 
 In contrast to traditional centralized machine learning techniques, federated learning (FL) is a learning technique that trains machine learning models across multiple decentralized edge devices holding local data samples without exchanging them. FL enables multiple end-users to build a secure and robust machine learning model without sharing data, addressing critical issues such as data privacy, data security, data access rights, and fairness. It has gained interest from various entities in both academia and industry. This workshop aims to bring together academic researchers and industry AI practitioners to address cutting-edge works contributing to federated machine learning research and its application to real-world applications, especially in Australasia area. 
 
-*Organisers* 
+#### Organisers 
 
 [A/Prof Guodong Long](https://profiles.uts.edu.au/Guodong.Long/), Australian AI Institute, University of Technology Sydney (UTS), Australia.
 
@@ -36,8 +36,8 @@ Notification: 30 Nov 2022
 
 Workshop date: 5 Dec 2022 
 
-{% include toc.html %}
+<!--{% include toc.html %}
 
 ------
 
-{% include template/credits.html %}
+{% include template/credits.html %}-->
