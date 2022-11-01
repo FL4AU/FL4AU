@@ -3,6 +3,8 @@ title: Workshop Programs
 nav: Programs
 ---
 
+### To be decided soon 
+<!--
 To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
 Basic familiarity with the GitHub web interface will be helpful.
 
@@ -69,3 +71,4 @@ Open-source cross platform suggestions:
 - [Atom](https://atom.io/)
 
 Tip: you can click `.` on any GitHub repository to [open the web editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) (which is a light version of VS Code)!
+-->
