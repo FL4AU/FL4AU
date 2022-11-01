@@ -17,7 +17,7 @@ In contrast to traditional centralized machine learning techniques, federated le
 
 [A/Prof Guodong Long](https://profiles.uts.edu.au/Guodong.Long/), Australian AI Institute, University of Technology Sydney (UTS), Australia.
 
-[Dr Yanjun Zhang] (https://www.deakin.edu.au/about-deakin/people/yanjun-zhang/), Deakin University, Australia.
+[Dr Yanjun Zhang](https://www.deakin.edu.au/about-deakin/people/yanjun-zhang/), Deakin University, Australia.
 
 
 
