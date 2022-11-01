@@ -26,6 +26,11 @@ In contrast to traditional centralized machine learning techniques, federated le
 Webchair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng), University of Technology Sydney (UTS), Australia.
 
 
+#### Invited talks (TBD)
+
+We will invite leading academic and industry practioner to present their vision on federated learning. 
+
+
 #### Call for presentation
 
 We intend to create a forum to communicate challenging problems and address open issues in this research area, and federated learning related innovative applications in Australasia. We also would like to invite PhD students in Australasia to exchange ideas about their published federated learning papers at top AI conferences.
@@ -42,6 +47,11 @@ We intend to create a forum to communicate challenging problems and address open
 - Workshop date: 5 Dec 2022 
 
 <!--{% include toc.html %}
+
+
+#### Program
+
+The program is composed of invited talks, panel discussion and selected presentations. The final program will be decided soon.
 
 ------
 
