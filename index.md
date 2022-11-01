@@ -30,7 +30,7 @@ Webchair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng), Universit
 
 We intend to create a forum to communicate challenging problems and address open issues in this research area, and federated learning related innovative applications in Australasia. We also would like to invite PhD students in Australasia to exchange ideas about their published federated learning papers at top AI conferences.
 
-[Submission link](https://cmt3.research.microsoft.com/FL4AU2022/Submission/Manage))
+[Submission link](https://cmt3.research.microsoft.com/FL4AU2022/)
 
 
 #### Important Dates
