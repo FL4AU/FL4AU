@@ -46,12 +46,11 @@ We intend to create a forum to communicate challenging problems and address open
 
 - Workshop date: 5 Dec 2022 
 
-<!--{% include toc.html %}
-
-
 #### Program
 
 The program is composed of invited talks, panel discussion and selected presentations. The final program will be decided soon.
+
+<!--{% include toc.html %}
 
 ------
 
