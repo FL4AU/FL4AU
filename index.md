@@ -5,7 +5,7 @@ layout: default
 
 # Federated Learning for Australasia: Towards large-scale AI system with privacy-preserving
 
-<!--{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}-->
+{% include figure.html img="About-WA-resized.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 The first workshop FL4AU on [The 35th Australasian Joint Conference on Aritificial Intelligence](https://ajcai2022.org/), Perth, Dec 2022.
 
