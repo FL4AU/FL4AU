@@ -19,6 +19,11 @@ In contrast to traditional centralized machine learning techniques, federated le
 
 - [Dr Yanjun Zhang](https://www.deakin.edu.au/about-deakin/people/yanjun-zhang/), Deakin University, Australia.
 
+- [Dr Tao Shen](https://www.microsoft.com/en-us/research/people/shentao/), Microsoft.
+
+## Other co-organisers:
+
+Webchair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng), University of Technology Sydney (UTS), Australia.
 
 
 #### Call for presentation
