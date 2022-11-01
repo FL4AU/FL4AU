@@ -1,7 +1,6 @@
 ---
 title: Workshop Programs
 nav: Programs
-<!--topics: GitHub; Optional Software-->
 ---
 
 To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
