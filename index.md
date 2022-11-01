@@ -7,7 +7,7 @@ layout: default
 
 {% include figure.html img="About-WA-resized.jpg" alt="intro image here" caption="FL4AU workshop" width="75%" %}
 
-The first workshop FL4AU on [The 35th Australasian Joint Conference on Aritificial Intelligence](https://ajcai2022.org/), Perth, Dec 2022.
+The first workshop FL4AU on [The 35th Australasian Joint Conference on Aritificial Intelligence](https://ajcai2022.org/){:target="_blank"}, Perth, Dec 2022.
 
 #### Introduction
 
@@ -15,15 +15,15 @@ In contrast to traditional centralized machine learning techniques, federated le
 
 #### Organisers 
 
-- [A/Prof Guodong Long](https://profiles.uts.edu.au/Guodong.Long/), Australian AI Institute, University of Technology Sydney (UTS), Australia.
+- [A/Prof Guodong Long](https://profiles.uts.edu.au/Guodong.Long/){:target="_blank"}, Australian AI Institute, University of Technology Sydney (UTS), Australia.
 
-- [Dr Yanjun Zhang](https://www.deakin.edu.au/about-deakin/people/yanjun-zhang/), Deakin University, Australia.
+- [Dr Yanjun Zhang](https://www.deakin.edu.au/about-deakin/people/yanjun-zhang/){:target="_blank"}, Deakin University, Australia.
 
-- [Dr Tao Shen](https://www.microsoft.com/en-us/research/people/shentao/), Microsoft.
+- [Dr Tao Shen](https://www.microsoft.com/en-us/research/people/shentao/){:target="_blank"}, Microsoft.
 
 ##### Other co-organisers:
 
-Webchair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng), University of Technology Sydney (UTS), Australia.
+Webchair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng){:target="_blank"}, University of Technology Sydney (UTS), Australia.
 
 
 #### Invited talks (TBD)
@@ -35,7 +35,7 @@ We will invite leading academic and industry practioner to present their vision 
 
 We intend to create a forum to communicate challenging problems and address open issues in this research area, and federated learning related innovative applications in Australasia. We also would like to invite PhD students in Australasia to exchange ideas about their published federated learning papers at top AI conferences.
 
-[Submission link](https://cmt3.research.microsoft.com/FL4AU2022/)
+[Submission link](https://cmt3.research.microsoft.com/FL4AU2022/){:target="_blank"}
 
 
 #### Important Dates
