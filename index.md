@@ -25,7 +25,7 @@ In contrast to traditional centralized machine learning techniques, federated le
 
 We intend to create a forum to communicate challenging problems and address open issues in this research area, and federated learning related innovative applications in Australasia. We also would like to invite PhD students in Australasia to exchange ideas about their published federated learning papers at top AI conferences.
 
-Submission link: (To be published)
+[Submission link](https://cmt3.research.microsoft.com/FL4AU2022/Submission/Manage))
 
 
 #### Important Dates
