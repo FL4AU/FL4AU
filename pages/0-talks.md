@@ -3,6 +3,8 @@ title: Invited Talks
 nav: Talks
 ---
 
+### To be decided soon
+<!--
 `workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
 
 It works best for about 5 pages of instructions, plus index, all written in Markdown. 
@@ -35,3 +37,4 @@ There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB
 If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
 All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
 {% include alert.html text=text color=secondary %}
+-->
