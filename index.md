@@ -7,7 +7,7 @@ layout: default
 
 <!--{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}-->
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+The first workshop FL4AU on [The 35th Australasian Joint Conference on Aritificial Intelligence](https://ajcai2022.org/), Perth, Dec 2022.
 
 *Introduction*
 
