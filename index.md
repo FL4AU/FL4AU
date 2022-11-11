@@ -7,7 +7,7 @@ layout: default
 
 {% include figure.html img="About-WA-resized.jpg" alt="intro image here" caption="FL4AU workshop" width="75%" %}
 
-The first workshop FL4AU on [The 35th Australasian Joint Conference on Aritificial Intelligence](https://ajcai2022.org/){:target="_blank"}, Perth, Dec 2022.
+The first workshop FL4AU on [The 35th Australasian Joint Conference on Aritificial Intelligence](https://ajcai2022.org/){:target="_blank"}, Perth, Dec 2022 (5 - 9 Dec 2022). The workshop will be held at 9 Dec 2022 in a hybrid mode.
 
 #### Introduction
 
@@ -35,16 +35,16 @@ We will invite leading academic and industry practioner to present their vision 
 
 We intend to create a forum to communicate challenging problems and address open issues in this research area, and federated learning related innovative applications in Australasia. We also would like to invite PhD students in Australasia to exchange ideas about their published federated learning papers at top AI conferences.
 
-[Submission link](https://cmt3.research.microsoft.com/FL4AU2022/){:target="_blank"}
+[Submission link](https://cmt3.research.microsoft.com/FL4AU2022/){:target="_blank"} -- Please upload the corresponding slide as submission, and then upload the published paper(s) and video onto supplmentary materials. 
 
 
 #### Important dates
 
-- Submission: 20 Nov 2022 
+- Submission: 22 Nov 2022 
 
 - Notification: 30 Nov 2022 
 
-- Workshop date: 5 Dec 2022 
+- Workshop date: 09 Dec 2022, 10am – 3pm (AWST/UTC+8) - Hybrid
 
 #### Program
 
