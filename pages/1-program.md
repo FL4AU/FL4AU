@@ -17,53 +17,53 @@ Sydney/Canberra/Melbourne time: 13:00 - 15:30
 
 10:00 - 10:30 am (Perth time)\
 Title: Healthcare Analytics and Federated learning  (30 minutes)\
-Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia\
+Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
 
 10:30 - 11:00 am (Perth time)\
 Title: When federated learning meets space (30 minutes)\
-Presenter: Dr Aidan Hotan, CSRIO, Australia\
+Presenter: Dr Aidan Hotan, CSRIO, Australia
 
-11:00 - 11:30 am (Perth time)
-Title: Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity
+11:00 - 11:30 am (Perth time)\
+Title: Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity\
 Presenter: A/Prof Tianqing Zhu, University of Technology Sydney, Australia
 
-11:30 - 12:00  (Perth time)
-Title: Federated causal learning and reasoning
+11:30 - 12:00  (Perth time)\
+Title: Federated causal learning and reasoning\
 Presenter: Dr Mingming Gong, University of Melbourne, Australia
 
-12:00 - 12:30  (Perth time)
-Title: Cybersecurity on Federated learning system
+12:00 - 12:30  (Perth time)\
+Title: Cybersecurity on Federated learning system\
 Presenter: Dr Guandong Bai, University of Queensland, Australia
 
 
 **Session 2: Invited presentation for research papers on federated learning** (15 minutes for each: 15 minutes presentation, 5 minutes Q&A)
-Perth time 13:30 - 15:10 
+Perth time 13:30 - 15:10\
 Sydney time: 16:30 - 18:10
 
 **Chair**: Dr Tony Chen, The University of Adelaide, Australia
 
-13:30 - 13:50 (Perth  time)
-Title: Federated learning for noise labels.
-Presenter: Zhuowei Wang (offline)
+13:30 - 13:50 (Perth  time)\
+Title: Federated learning for noise labels.\
+Presenter: Zhuowei Wang (offline)\
 Paper in TMLR
 
-13:50 - 14:10 (Perth  time)
-Title: Federated Learning from Pre-Trained Models: A Contrastive Learning Approach
-Presenter: Yue Tan (online)
+13:50 - 14:10 (Perth  time)\
+Title: Federated Learning from Pre-Trained Models: A Contrastive Learning Approach\
+Presenter: Yue Tan (online)\
 Paper in NeurIPS 2022
 
-14:10 - 14:30 (Perth  time)
-Title: Personalized Federated Learning With A Graph
-Presenter: Fenwen Chen (online)
+14:10 - 14:30 (Perth  time)\
+Title: Personalized Federated Learning With A Graph\
+Presenter: Fenwen Chen (online)\
 Paper in IJCAI 2022
 
-14:30 - 14:50 (Perth  time)
-Title: On the convergence of clustered federated learning
-Presenter: Jie Ma (online)
+14:30 - 14:50 (Perth  time)\
+Title: On the convergence of clustered federated learning\
+Presenter: Jie Ma (online)\
 Paper in TNNLS 2022
 
-14:50 - 15:10 (Perth  time)
-Title: Confined gradient descent: Privacy-preserving optimization for federated learning
+14:50 - 15:10 (Perth  time)\
+Title: Confined gradient descent: Privacy-preserving optimization for federated learning\
 Presenter: Yanjun Zhang (online)
 
 
