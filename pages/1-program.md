@@ -13,16 +13,16 @@ Perth time 10:00 - 12:30 am\
 Sydney/Canberra/Melbourne time: 13:00 - 15:30
 
 10:00 - 10:30 am (Perth time)\
-Title: Healthcare Analytics and Federated learning\
-Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
-
-10:30 - 11:00 am (Perth time)\
 Title: The rise of machine learning and federated learning in space and astronomy\
 Presenter: Dr Aidan Hotan, CSRIO, Australia
 
-11:00 - 11:30 am (Perth time)\
+10:30 - 11:00 am (Perth time)\
 Title: Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity\
 Presenter: A/Prof Tianqing Zhu, University of Technology Sydney, Australia
+
+11:00 - 11:30 am (Perth time)\
+Title: Healthcare Analytics and Federated learning\
+Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
 
 11:30 - 12:00  (Perth time)\
 Title: Federated causal learning and reasoning\
