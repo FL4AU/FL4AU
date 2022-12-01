@@ -48,7 +48,7 @@ We intend to create a forum to communicate challenging problems and address open
 
 #### Program
 
-The program is composed of invited talks, panel discussion and selected presentations. The final program will be decided soon.
+The program is composed of invited talks, panel discussion and selected presentations. The final [program](https://fl4au.github.io/pages/1-program.htmlis){:target="_blank"} ready.
 
 <!--{% include toc.html %}
 ------
