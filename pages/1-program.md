@@ -15,23 +15,23 @@ Sydney/Canberra/Melbourne time: 13:00 - 15:30
 **Chair**: Guodong Long, University of Technology Sydney, Australia
 
 10:00 - 10:30 am (Perth time)
-1. Healthcare Analytics and Federated learning  (30 minutes)
+Title: Healthcare Analytics and Federated learning  (30 minutes)
 Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
 
 10:30 - 11:00 am (Perth time)
-2. When federated learning meets space (30 minutes)
+Title: When federated learning meets space (30 minutes)
 Presenter: Dr Aidan Hotan, CSRIO, Australia
 
 11:00 - 11:30 am (Perth time)
-3. Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity
+Title: Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity
 Presenter: A/Prof Tianqing Zhu, University of Technology Sydney, Australia
 
 11:30 - 12:00  (Perth time)
-4. Federated causal learning and reasoning
+Title: Federated causal learning and reasoning
 Presenter: Dr Mingming Gong, University of Melbourne, Australia
 
 12:00 - 12:30  (Perth time)
-5. Cybersecurity on Federated learning system
+Title: Cybersecurity on Federated learning system
 Presenter: Dr Guandong Bai, University of Queensland, Australia
 
 
@@ -42,27 +42,27 @@ Sydney time: 16:30 - 18:10
 **Chair**: Dr Tony Chen, The University of Adelaide, Australia
 
 13:30 - 13:50 (Perth  time)
-1. Federated learning for noise labels.
+Title: Federated learning for noise labels.
 Presenter: Zhuowei Wang (offline)
 Paper in TMLR
 
 13:50 - 14:10 (Perth  time)
-2. Federated Learning from Pre-Trained Models: A Contrastive Learning Approach
+Title: Federated Learning from Pre-Trained Models: A Contrastive Learning Approach
 Presenter: Yue Tan (online)
 Paper in NeurIPS 2022
 
 14:10 - 14:30 (Perth  time)
-3. Personalized Federated Learning With A Graph
+Title: Personalized Federated Learning With A Graph
 Presenter: Fenwen Chen (online)
 Paper in IJCAI 2022
 
 14:30 - 14:50 (Perth  time)
-4. On the convergence of clustered federated learning
+Title: On the convergence of clustered federated learning
 Presenter: Jie Ma (online)
 Paper in TNNLS 2022
 
 14:50 - 15:10 (Perth  time)
-5. Confined gradient descent: Privacy-preserving optimization for federated learning
+Title: Confined gradient descent: Privacy-preserving optimization for federated learning
 Presenter: Yanjun Zhang (online)
 
 
