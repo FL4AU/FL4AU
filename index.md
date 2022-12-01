@@ -41,9 +41,7 @@ We intend to create a forum to communicate challenging problems and address open
 #### Important dates
 
 - Submission: 22 Nov 2022 
-
 - Notification: 30 Nov 2022 
-
 - Workshop date: 09 Dec 2022, 10am – 3pm (AWST/UTC+8) - Hybrid
 
 #### Program
