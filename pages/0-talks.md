@@ -13,10 +13,14 @@ nav: Talks
 **Abstract**: The outstanding performance of deep neural networks has promoted deep learning applications in a broad set of domains. However, the potential risks caused by adversarial samples have hindered the large-scale deployment of deep learning. In these scenarios, adversarial perturbations, imperceptible to human eyes, significantly decrease the model’s final performance. Many papers have been published on adversarial attacks and their countermeasures in the realm of deep learning. Most focus on evasion attacks, where the adversarial examples are found at test time, as opposed to poisoning attacks where poisoned data is inserted into the training data. Further, it is difficult to evaluate the real threat of adversarial attacks or the robustness of a deep learning model, as there are no standard evaluation methods. Hence, with this paper, we review the literature to date. Additionally, we attempt to offer the first analysis framework for a systematic understanding of adversarial attacks. The framework is built from the perspective of cybersecurity so as to provide a lifecycle for adversarial attacks and defenses.
 
 
-
 **Title**: Federated causal learning and reasoning\
 **Presenter**: Dr Mingming Gong, University of Melbourne\
 **Abstract**: Causal learning and reasoning aims to learn causal graphs from data and make use of to draw causal conclusions. However, data owners may not be able to share data due to privacy concerns, which poses challenges for causal learning and reasoning. In this talk, I will review recent advances in causal learning and reasoning in federated settings. In addition, I will introduce our recent work on learning causal graphs in the federated setting with heterogeneous data. Finally, I will discuss possible future directions in federated causal learning and reasoning.
+
+
+**Title**: Privacy Preservation in Collaborative Learning\
+**Presenter**: Dr Guandong Bai, University of Queensland\
+**Abstract**: Collaborative learning enables two or more participants, each with their own training dataset, to collaboratively learn a joint model. It is desirable that the collaboration should not cause the disclosure of either the raw datasets of each individual owner or the local model parameters trained on them. Existing approaches based on differential privacy mechanisms or homomorphic encryption may introduce a loss of model accuracy or imply significant computational overhead. In this talk, I will introduce our efforts in privacy preservation in collaborative learning. We address this problem through the lightweight additive secret sharing technique and colony-based gradient descent. We aim to protect local data and local models while ensuring the correctness of training processes.
 
 <!--
 ### To be decided soon
