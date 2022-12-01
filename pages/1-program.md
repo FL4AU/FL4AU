@@ -9,8 +9,7 @@ nav: Programs
 
 **Session 1: Invited talks for federated learning and its applications.**
 
-Perth time 10:00 - 12:30 am
-
+Perth time 10:00 - 12:30 am\
 Sydney/Canberra/Melbourne time: 13:00 - 15:30
 
 **Chair**: Guodong Long, University of Technology Sydney, Australia
@@ -37,6 +36,7 @@ Presenter: Dr Guandong Bai, University of Queensland, Australia
 
 
 **Session 2: Invited presentation for research papers on federated learning** (15 minutes for each: 15 minutes presentation, 5 minutes Q&A)
+
 Perth time 13:30 - 15:10\
 Sydney time: 16:30 - 18:10
 
