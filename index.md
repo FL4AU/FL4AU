@@ -26,9 +26,9 @@ In contrast to traditional centralized machine learning techniques, federated le
 - Web chair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng){:target="_blank"}, University of Technology Sydney (UTS), Australia.
 
 
-#### Invited talks (TBD)
+#### Invited talks
 
-We will invite leading academic and industry practioner to present their vision on federated learning. 
+There will be five invite leading academic and industry practioners to present their vision on federated learning. 
 
 
 #### Call for presentation
