@@ -16,16 +16,14 @@ In contrast to traditional centralized machine learning techniques, federated le
 #### Organisers 
 
 - [A/Prof Guodong Long](https://profiles.uts.edu.au/Guodong.Long/){:target="_blank"}, Australian AI Institute, University of Technology Sydney (UTS), Australia.
-
 - [Dr Yanjun Zhang](https://www.deakin.edu.au/about-deakin/people/yanjun-zhang/){:target="_blank"}, Deakin University, Australia.
-
 - [Dr Tao Shen](https://www.microsoft.com/en-us/research/people/shentao/){:target="_blank"}, Microsoft.
 
 ##### Other co-organisers:
 
-Session chair: [A/Prof Jing Jiang](https://profiles.uts.edu.au/jing.jiang){:target="_blank"}, University of Technology Sydney (UTS), Australia.\
-Session chair: [Dr Tony Chen](https://www.adelaide.edu.au/directory/weitong.chen){:target="_blank"}, The University of Adelaide, Australia.\
-Web chair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng){:target="_blank"}, University of Technology Sydney (UTS), Australia.
+- Session chair: [A/Prof Jing Jiang](https://profiles.uts.edu.au/jing.jiang){:target="_blank"}, University of Technology Sydney (UTS), Australia.
+- Session chair: [Dr Tony Chen](https://www.adelaide.edu.au/directory/weitong.chen){:target="_blank"}, The University of Adelaide, Australia.
+- Web chair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng){:target="_blank"}, University of Technology Sydney (UTS), Australia.
 
 
 #### Invited talks (TBD)
