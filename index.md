@@ -23,8 +23,8 @@ In contrast to traditional centralized machine learning techniques, federated le
 
 ##### Other co-organisers:
 
-Session chairs: 1. [A/Prof Jing Jiang](https://profiles.uts.edu.au/jing.jiang){:target="_blank"}, University of Technology Sydney (UTS), Australia.
-1. [Dr Tony Chen](https://profiles.uts.edu.au/jing.jiang){:target="_blank"}, The University of Adelaide, Australia.
+Session chair: [A/Prof Jing Jiang](https://profiles.uts.edu.au/jing.jiang){:target="_blank"}, University of Technology Sydney (UTS), Australia.\
+Session chair: [Dr Tony Chen](https://www.adelaide.edu.au/directory/weitong.chen){:target="_blank"}, The University of Adelaide, Australia.\
 Web chair: [Dr Xueping Peng](https://profiles.uts.edu.au/Xueping.Peng){:target="_blank"}, University of Technology Sydney (UTS), Australia.
 
 
