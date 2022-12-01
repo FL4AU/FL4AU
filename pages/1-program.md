@@ -10,16 +10,21 @@ nav: Programs
 **Session 1: Invited talks for federated learning and its applications.**
 
 Perth time 10:00 - 12:30 am
+
 Sydney/Canberra/Melbourne time: 13:00 - 15:30
 
 **Chair**: Guodong Long, University of Technology Sydney, Australia
 
 10:00 - 10:30 am (Perth time)
+
 Title: Healthcare Analytics and Federated learning  (30 minutes)
+
 Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
 
 10:30 - 11:00 am (Perth time)
+
 Title: When federated learning meets space (30 minutes)
+
 Presenter: Dr Aidan Hotan, CSRIO, Australia
 
 11:00 - 11:30 am (Perth time)
