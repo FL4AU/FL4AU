@@ -12,8 +12,6 @@ nav: Programs
 Perth time 10:00 - 12:30 am\
 Sydney/Canberra/Melbourne time: 13:00 - 15:30
 
-**Chair**: Guodong Long, University of Technology Sydney, Australia
-
 10:00 - 10:30 am (Perth time)\
 Title: Healthcare Analytics and Federated learning\
 Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
@@ -31,7 +29,7 @@ Title: Federated causal learning and reasoning\
 Presenter: Dr Mingming Gong, University of Melbourne, Australia
 
 12:00 - 12:30  (Perth time)\
-Title: Cybersecurity on Federated learning system\
+Title: Privacy Preservation in Collaborative Learning\
 Presenter: Dr Guandong Bai, University of Queensland, Australia
 
 
@@ -40,7 +38,6 @@ Presenter: Dr Guandong Bai, University of Queensland, Australia
 Perth time 13:30 - 15:10\
 Sydney time: 16:30 - 18:10
 
-**Chair**: Dr Tony Chen, The University of Adelaide, Australia
 
 13:30 - 13:50 (Perth  time)\
 Title: Federated learning for noise labels.\
