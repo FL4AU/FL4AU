@@ -10,7 +10,7 @@ The above-mentioned venues are in EZONE North building at The University of West
 
 **Online access** via [Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3a5bb6a640a48f450eb9de9a71d5b37cff%40thread.tacv2/1669730293112?context=%7b%22Tid%22%3a%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2c%22Oid%22%3a%22e63182cd-b1d3-4d4c-982e-367663671017%22%7d)
 
-**Morning Tea and Lunch**
+**Morning Tea and Lunch** \
 Morning tea and lunch will be served in EZONENTH: [G03] EZONE Social at the following times: \
 Morning tea: 11:10 -11:30\ 
 Lunch: 14:20 - 15:00 
@@ -25,25 +25,25 @@ Perth time 10:00 - 13:00 \
 Sydney/Canberra/Melbourne time: 13:00 - 16:00
 
 10:10 - 10:40  (Perth time)\
-Title: The rise of machine learning and federated learning in space and astronomy\
+Title: **The rise of machine learning and federated learning in space and astronomy**\
 Presenter: Dr Aidan Hotan, CSRIO, Australia
 
 10:40 - 11:10  (Perth time)\
-Title: Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity\
+Title: **Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity**\
 Presenter: A/Prof Tianqing Zhu, University of Technology Sydney, Australia
 
-Morning tea: 11:10 -11:30 (EZONENTH: [G03] EZONE Social)
+**Morning tea**: 11:10 -11:30 (EZONENTH: [G03] EZONE Social)
 
 11:30 - 12:00  (Perth time)\
-Title: Federated learning for healthcare analytics\
+Title: **Federated learning for healthcare analytics**\
 Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
 
 12:00 - 12:30  (Perth time)\
-Title: Privacy Preservation in Collaborative Learning\
+Title: **Privacy Preservation in Collaborative Learning**\
 Presenter: Dr Guandong Bai, University of Queensland, Australia
 
 12:30 - 13:00  (Perth time)\
-Title: Federated causal learning and reasoning\
+Title: **Federated causal learning and reasoning**\
 Presenter: Dr Mingming Gong, University of Melbourne, Australia
 
 
@@ -78,7 +78,7 @@ Title: Better Together: Attaining the Triad of Byzantine-robust Federated Learni
 Presenter: Yanjun Zhang (online)
 Paper in ACSAC 2022
 
-Lunch: 14:20 - 15:00 (EZONENTH: [G03] EZONE Social)
+**Lunch**: 14:20 - 15:00 (EZONENTH: [G03] EZONE Social)
 
 <!--### To be decided soon 
 
