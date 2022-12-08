@@ -47,14 +47,14 @@ Title: **Federated causal learning and reasoning**\
 Presenter: Dr Mingming Gong, University of Melbourne, Australia
 
 
-**Session 2: Invited presentation for research papers on federated learning** (15 minutes for each: 12 minutes presentation including Q&A)
+**Session 2: Invited presentation for research papers on federated learning** (15 minutes for each: 12 minutes presentation and 3 minutes Q&A)
 
 Perth time 13:30 - 15:10\
-Sydney time: 16:30 - 18:10
+Sydney time: 16:30 - 18:10\
 
 
 13:00 - 13:15 (Perth time)\
-Title: Federated learning for noise labels.\
+Title: Federated learning for noise labels\
 Presenter: Zhuowei Wang (offline)\
 Paper in TMLR
 
@@ -75,7 +75,7 @@ Paper in TNNLS 2022
 
 14:00 - 14:15 (Perth  time)\
 Title: Better Together: Attaining the Triad of Byzantine-robust Federated Learning via Local Update Amplification\
-Presenter: Yanjun Zhang (online)
+Presenter: Yanjun Zhang (online)\
 Paper in ACSAC 2022
 
 **Lunch**: 14:20 - 15:00 (EZONENTH: [G03] EZONE Social)
