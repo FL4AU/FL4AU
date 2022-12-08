@@ -39,7 +39,7 @@ Presenter: A/Prof Tianqing Zhu, University of Technology Sydney, Australia
 
 11:30 - 12:00  (Perth time) \
 Title: **Federated learning for healthcare analytics** \
-Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
+Presenter: Dr Allison Clarke, Commonwealth Department of Health and Aged Care, Australia
 
 12:00 - 12:30  (Perth time) \
 Title: **Privacy Preservation in Collaborative Learning** \
