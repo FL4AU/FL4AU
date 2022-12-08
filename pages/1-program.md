@@ -15,18 +15,20 @@ Morning tea and lunch will be served in EZONENTH: [G03] EZONE Social at the foll
 Morning tea: 11:10 -11:30 
 Lunch: 14:20 - 15:00 
 
-**Opening**: A/Prof Guodong Long
+**Opening**: 
+Perth time 10:00 - 10:10 \
+A/Prof Guodong Long 
 
 **Session 1: Invited talks for federated learning and its applications.**
 
-Perth time 10:00 - 12:30 \
-Sydney/Canberra/Melbourne time: 13:00 - 15:30
+Perth time 10:00 - 13:00 \
+Sydney/Canberra/Melbourne time: 13:00 - 16:00
 
-10:00 - 10:30  (Perth time)\
+10:10 - 10:40  (Perth time)\
 Title: The rise of machine learning and federated learning in space and astronomy\
 Presenter: Dr Aidan Hotan, CSRIO, Australia
 
-10:30 - 11:00  (Perth time)\
+10:40 - 11:10  (Perth time)\
 Title: Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity\
 Presenter: A/Prof Tianqing Zhu, University of Technology Sydney, Australia
 
