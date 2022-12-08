@@ -16,6 +16,7 @@ Morning tea: 11:10 -11:30
 Lunch: 14:20 - 15:00 
 
 **Opening**: A/Prof Guodong Long
+
 **Session 1: Invited talks for federated learning and its applications.**
 
 Perth time 10:00 - 12:30 \
