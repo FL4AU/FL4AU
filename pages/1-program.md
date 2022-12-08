@@ -5,14 +5,14 @@ nav: Programs
 
 9 Dec 2022, Perth, Australia
 
-Venue Address: EZONENTH: [109] Learning Studio, UWA
-The above-mentioned venues are in EZONE North building at The University of Western Australia, Crawley campus. Please have a look at the map of EZONE (attached) and UWA campus map: https://www.uwa.edu.au/contact-us/campus-map?id=215 for further details.  
+**Venue Address**: EZONENTH: [109] Learning Studio, UWA \
+The above-mentioned venues are in EZONE North building at The University of Western Australia, Crawley campus. Please have a look at the map of EZONE (attached) and [UWA campus map](https://www.uwa.edu.au/contact-us/campus-map?id=215){:target="_blank"} for further details.  
 
-Microsoft Teams: https://teams.microsoft.com/l/meetup-join/19%3a5bb6a640a48f450eb9de9a71d5b37cff%40thread.tacv2/1669730293112?context=%7b%22Tid%22%3a%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2c%22Oid%22%3a%22e63182cd-b1d3-4d4c-982e-367663671017%22%7d 
+**[Online access via Microsoft Teams]** (https://teams.microsoft.com/l/meetup-join/19%3a5bb6a640a48f450eb9de9a71d5b37cff%40thread.tacv2/1669730293112?context=%7b%22Tid%22%3a%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2c%22Oid%22%3a%22e63182cd-b1d3-4d4c-982e-367663671017%22%7d){:target="_blank"}
 
-Morning Tea and Lunch: 
-Morning tea and lunch will be served in EZONENTH: [G03] EZONE Social at the following times: 
-Morning tea: 11:10 -11:30 
+**Morning Tea and Lunch**
+Morning tea and lunch will be served in EZONENTH: [G03] EZONE Social at the following times: \
+Morning tea: 11:10 -11:30\ 
 Lunch: 14:20 - 15:00 
 
 **Opening**: 
