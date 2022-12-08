@@ -12,70 +12,74 @@ The above-mentioned venues are in EZONE North building at The University of West
 
 **Morning Tea and Lunch** \
 Morning tea and lunch will be served in EZONENTH: [G03] EZONE Social at the following times: \
-Morning tea: 11:10 -11:30\ 
+Morning tea: 11:10 -11:30 \ 
 Lunch: 14:20 - 15:00 
 
 **Opening**: 
 Perth time 10:00 - 10:10 \
 A/Prof Guodong Long 
 
-**Session 1: Invited talks for federated learning and its applications.**
+\
+\
+**Session 1: Invited talks for federated learning and its applications.** \
 
 Perth time 10:00 - 13:00 \
-Sydney/Canberra/Melbourne time: 13:00 - 16:00
+Sydney/Canberra/Melbourne time: 13:00 - 16:00 \
 
-10:10 - 10:40  (Perth time)\
-Title: **The rise of machine learning and federated learning in space and astronomy**\
+
+10:10 - 10:40  (Perth time) \
+Title: **The rise of machine learning and federated learning in space and astronomy** \
 Presenter: Dr Aidan Hotan, CSRIO, Australia
 
-10:40 - 11:10  (Perth time)\
-Title: **Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity**\
+10:40 - 11:10  (Perth time) \
+Title: **Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity** \
 Presenter: A/Prof Tianqing Zhu, University of Technology Sydney, Australia
 
 **Morning tea**: 11:10 -11:30 (EZONENTH: [G03] EZONE Social)
 
-11:30 - 12:00  (Perth time)\
-Title: **Federated learning for healthcare analytics**\
+11:30 - 12:00  (Perth time) \
+Title: **Federated learning for healthcare analytics** \
 Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
 
-12:00 - 12:30  (Perth time)\
-Title: **Privacy Preservation in Collaborative Learning**\
+12:00 - 12:30  (Perth time) \
+Title: **Privacy Preservation in Collaborative Learning** \
 Presenter: Dr Guandong Bai, University of Queensland, Australia
 
-12:30 - 13:00  (Perth time)\
-Title: **Federated causal learning and reasoning**\
+12:30 - 13:00  (Perth time) \
+Title: **Federated causal learning and reasoning** \
 Presenter: Dr Mingming Gong, University of Melbourne, Australia
 
-
+\
+\
 **Session 2: Invited presentation for research papers on federated learning** (15 minutes for each: 12 minutes presentation and 3 minutes Q&A)
 
-Perth time 13:30 - 15:10\
-Sydney time: 16:30 - 18:10\
+Perth time 13:30 - 15:10 \
+Sydney time: 16:30 - 18:10 \
 
 
-13:00 - 13:15 (Perth time)\
-Title: Federated learning for noise labels\
-Presenter: Zhuowei Wang (offline)\
+13:00 - 13:15 (Perth time) \
+Title: Federated learning for noise labels \
+Presenter: Zhuowei Wang (offline) \
 Paper in TMLR
 
-13:15 - 13:30 (Perth  time)\
-Title: Federated Learning from Pre-Trained Models: A Contrastive Learning Approach\
-Presenter: Yue Tan (online)\
+13:15 - 13:30 (Perth  time) \
+Title: Federated Learning from Pre-Trained Models: A Contrastive Learning Approach \
+Presenter: Yue Tan (online) \
 Paper in NeurIPS 2022
 
-13:30 - 13:45 (Perth  time)\
-Title: Personalized Federated Learning With A Graph\
-Presenter: Fenwen Chen (online)\
+13:30 - 13:45 (Perth  time) \
+Title: Personalized Federated Learning With A Graph \
+Presenter: Fenwen Chen (online) \
 Paper in IJCAI 2022
 
-13:45 - 14:00 (Perth  time)\
-Title: On the convergence of clustered federated learning\
-Presenter: Jie Ma (online)\
+13:45 - 14:00 (Perth  time) \
+Title: On the convergence of clustered federated learning \
+Presenter: Jie Ma (online) \
 Paper in TNNLS 2022
 
-14:00 - 14:15 (Perth  time)\
-Title: Better Together: Attaining the Triad of Byzantine-robust Federated Learning via Local Update Amplification\
-Presenter: Yanjun Zhang (online)\
+14:00 - 14:15 (Perth  time) \
+Title: Better Together: Attaining the Triad of Byzantine-robust Federated Learning via Local Update Amplification \
+Presenter: Yanjun Zhang (online) \
 Paper in ACSAC 2022
 
 **Lunch**: 14:20 - 15:00 (EZONENTH: [G03] EZONE Social)
