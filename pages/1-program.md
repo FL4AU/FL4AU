@@ -21,10 +21,10 @@ A/Prof Guodong Long
 
 \
 \
-**Session 1: Invited talks for federated learning and its applications.** \
+**Session 1: Invited talks for federated learning and its applications.** 
 
 Perth time 10:00 - 13:00 \
-Sydney/Canberra/Melbourne time: 13:00 - 16:00 \
+Sydney/Canberra/Melbourne time: 13:00 - 16:00 
 
 
 10:10 - 10:40  (Perth time) \
@@ -54,7 +54,7 @@ Presenter: Dr Mingming Gong, University of Melbourne, Australia
 **Session 2: Invited presentation for research papers on federated learning** (15 minutes for each: 12 minutes presentation and 3 minutes Q&A)
 
 Perth time 13:30 - 15:10 \
-Sydney time: 16:30 - 18:10 \
+Sydney time: 16:30 - 18:10 
 
 
 13:00 - 13:15 (Perth time) \
