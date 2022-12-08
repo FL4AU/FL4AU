@@ -5,64 +5,77 @@ nav: Programs
 
 9 Dec 2022, Perth, Australia
 
-**Opening speech**: A/Prof Guodong Long
+Venue Address: EZONENTH: [109] Learning Studio, UWA
+The above-mentioned venues are in EZONE North building at The University of Western Australia, Crawley campus. Please have a look at the map of EZONE (attached) and UWA campus map: https://www.uwa.edu.au/contact-us/campus-map?id=215 for further details.  
 
+Microsoft Teams: https://teams.microsoft.com/l/meetup-join/19%3a5bb6a640a48f450eb9de9a71d5b37cff%40thread.tacv2/1669730293112?context=%7b%22Tid%22%3a%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2c%22Oid%22%3a%22e63182cd-b1d3-4d4c-982e-367663671017%22%7d 
+
+Morning Tea and Lunch: 
+Morning tea and lunch will be served in EZONENTH: [G03] EZONE Social at the following times: 
+Morning tea: 11:10 -11:30 
+Lunch: 14:20 - 15:00 
+
+**Opening**: A/Prof Guodong Long
 **Session 1: Invited talks for federated learning and its applications.**
 
-Perth time 10:00 - 12:30 am\
+Perth time 10:00 - 12:30 \
 Sydney/Canberra/Melbourne time: 13:00 - 15:30
 
-10:00 - 10:30 am (Perth time)\
+10:00 - 10:30  (Perth time)\
 Title: The rise of machine learning and federated learning in space and astronomy\
 Presenter: Dr Aidan Hotan, CSRIO, Australia
 
-10:30 - 11:00 am (Perth time)\
+10:30 - 11:00  (Perth time)\
 Title: Adversarial Attacks and Defenses in Deep Learning: from a Perspective of Cybersecurity\
 Presenter: A/Prof Tianqing Zhu, University of Technology Sydney, Australia
 
-11:00 - 11:30 am (Perth time)\
-Title: Healthcare Analytics and Federated learning\
-Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
+Morning tea: 11:10 -11:30 (EZONENTH: [G03] EZONE Social)
 
 11:30 - 12:00  (Perth time)\
-Title: Federated causal learning and reasoning\
-Presenter: Dr Mingming Gong, University of Melbourne, Australia
+Title: Federated learning for healthcare analytics\
+Presenter: Dr Allison Clarke, Commonwealth Department of Health, Australia
 
 12:00 - 12:30  (Perth time)\
 Title: Privacy Preservation in Collaborative Learning\
 Presenter: Dr Guandong Bai, University of Queensland, Australia
 
+12:30 - 13:00  (Perth time)\
+Title: Federated causal learning and reasoning\
+Presenter: Dr Mingming Gong, University of Melbourne, Australia
 
-**Session 2: Invited presentation for research papers on federated learning** (15 minutes for each: 15 minutes presentation, 5 minutes Q&A)
+
+**Session 2: Invited presentation for research papers on federated learning** (15 minutes for each: 12 minutes presentation including Q&A)
 
 Perth time 13:30 - 15:10\
 Sydney time: 16:30 - 18:10
 
 
-13:30 - 13:50 (Perth  time)\
+13:00 - 13:15 (Perth time)\
 Title: Federated learning for noise labels.\
 Presenter: Zhuowei Wang (offline)\
 Paper in TMLR
 
-13:50 - 14:10 (Perth  time)\
+13:15 - 13:30 (Perth  time)\
 Title: Federated Learning from Pre-Trained Models: A Contrastive Learning Approach\
 Presenter: Yue Tan (online)\
 Paper in NeurIPS 2022
 
-14:10 - 14:30 (Perth  time)\
+13:30 - 13:45 (Perth  time)\
 Title: Personalized Federated Learning With A Graph\
 Presenter: Fenwen Chen (online)\
 Paper in IJCAI 2022
 
-14:30 - 14:50 (Perth  time)\
+13:45 - 14:00 (Perth  time)\
 Title: On the convergence of clustered federated learning\
 Presenter: Jie Ma (online)\
 Paper in TNNLS 2022
 
-14:50 - 15:10 (Perth  time)\
-Title: Confined gradient descent: Privacy-preserving optimization for federated learning\
+14:00 - 14:15 (Perth  time)\
+Title: Better Together: Attaining the Triad of Byzantine-robust Federated Learning via Local Update Amplification\
 Presenter: Yanjun Zhang (online)
+Paper in ACSAC 2022
 
+Lunch: 14:20 - 15:00 (EZONENTH: [G03] EZONE Social)
 
 <!--### To be decided soon 
 
